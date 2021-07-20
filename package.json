@@ -37,7 +37,7 @@
     "moment": "^2.24.0",
     "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-app-intro-slider": "^3.0.0",
     "react-native-call-detection": "^1.8.2",
     "react-native-call-log": "^2.1.1",
